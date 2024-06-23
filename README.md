@@ -1,1 +1,1 @@
-# explainable-AI
+# Explainable AI research project
